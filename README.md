@@ -5,6 +5,7 @@ A simple memory game for applying the basics of java.
 
 1) Make sure to have the JDK installed on your machine and the java,javac path are defined in the system variables.
 2) go to the src/ directory and enter the following commands: 
+      </br>
       <code> javac -cp . memory/*.java </code>
       </br>
       <code> java -cp . memory/Main </code>
